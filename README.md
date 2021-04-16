@@ -15,3 +15,7 @@ pip3 install -r requirements.txt
 ```
 python3 main.py
 ```
+
+## Result
+
+![result](https://github.com/sbis04/sift-feature-matching/raw/master/screenshots/result.png)
