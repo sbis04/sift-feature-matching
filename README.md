@@ -1,4 +1,4 @@
-# SIFT featurematching
+# SIFT feature matching
 
 Using SIFT and mininum sum of absolute distance for feature matching
 
