@@ -2,6 +2,8 @@
 
 Using SIFT and mininum sum of absolute distance for feature matching
 
+> Reference: https://www.analyticsvidhya.com/blog/2019/10/detailed-guide-powerful-sift-technique-image-matching-python
+
 - Install `requirements.txt`:
 
 ```
